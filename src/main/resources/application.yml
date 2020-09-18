@@ -1,0 +1,15 @@
+app:
+
+  sharepoint:
+    tenant-id:
+    tenant-name:
+    client-id:
+    client-secret:
+    server-url: Shared Documents/Library
+    
+server:
+  proxy:
+    url:
+    port: 80
+    default-scheme-name: http
+    
